@@ -16,7 +16,7 @@ Right now mi dealing with:
 	
 	•	Solving problems without stress
 	
-	•	Preparing fi di bigger tings later (Node.js, React… one step at a time)
+	•	Preparing fi di bigger tings later (Node.js, TypeScript,Next.js,Express.js,Koa.js, React… one step at a time)
 
 Mi stay humble, mi stay growing.
 
