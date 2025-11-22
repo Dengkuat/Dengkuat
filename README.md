@@ -8,7 +8,7 @@ Preparing for full-stack when de time right but mi nah rush it.
 
 Step by step…
 
-Right now mi dealing with
+*Right now mi dealing with*
 
 • Pure JavaScript business
 
