@@ -12,13 +12,6 @@ Right now mi dealing with:
 
 Mi stay humble, mi stay growing.
 Who fi see di work, will see it, Amen.
-
-![Deng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-[![Codewars](https://www.codewars.com/users/YOUR_USERNAME/badges/large)](https://www.codewars.com/users/YOUR_USERNAME)
 
   
