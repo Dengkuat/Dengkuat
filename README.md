@@ -1,4 +1,4 @@
-*Mi name Deng, straight outta South Sudan, just doing my ting init,
+*Mi name Deng, straight outta South Sudan, just doing my ting init,*
 
 *Mi deh yah, working pon JavaScript day by day.*
 
