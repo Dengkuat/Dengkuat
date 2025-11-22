@@ -8,15 +8,15 @@ Preparing for full-stack when de time right but mi nah rush it.
 
 Step by step…
 
-Right now mi dealing with:
+Right now mi dealing with
 
-	 Pure JavaScript business
-	
-	 Building likkle projects fi keep di brain sharp
-	
-	Solving problems without stress
-	
-	Preparing fi di bigger tings later (Node.js, TypeScript,Next.js,Express.js,Koa.js, React… one step at a time)
+Pure JavaScript business
+
+Building likkle projects fi keep di brain sharp
+
+Solving problems without stress
+
+Preparing fi di bigger tings later (Node.js, TypeScript,Next.js,Express.js,Koa.js, React… one step at a time)
 
 Mi stay humble, mi stay growing.
 
