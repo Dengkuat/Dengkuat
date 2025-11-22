@@ -1,7 +1,7 @@
-*Mi name Deng, straight outta South Sudan, just doing my ting init,*
-*Mi deh yah, working pon JavaScript day by day.*
-*Nuttin’ too serious — just coding, learning, and leveling up quiet-quiet.*
-*Preparing for full-stack when de time right but mi nah rush it.*
+*Mi name Deng, straight outta South Sudan, just doing my ting init,*  
+*Mi deh yah, working pon JavaScript day by day.*  
+*Nuttin’ too serious — just coding, learning, and leveling up quiet-quiet.*  
+*Preparing for full-stack when de time right but mi nah rush it.*  
 *Step by step…*
 
 *Right now mi dealing with*
