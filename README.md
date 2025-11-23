@@ -11,7 +11,7 @@
 *• Preparing fi di bigger tings later (Node.js, TypeScript,Next.js,Express.js,Koa.js, React… one step at a time)*  
 
 *Mi stay humble, mi stay growing.*  
-*Who fi see di work, will see it, Amen.*  
+*Who fi see di work, will see it, Period.*  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
