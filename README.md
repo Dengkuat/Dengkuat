@@ -15,7 +15,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dengkuat&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dengkuat&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   
