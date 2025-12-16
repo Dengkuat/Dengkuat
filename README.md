@@ -1,20 +1,52 @@
-*Mi name Deng, straight outta South Sudan, just doing my ting init,*  
-*Mi deh yah, working pon JavaScript day by day.*  
-*Nuttin’ too serious — just coding, learning, and leveling up quiet-quiet.*  
-*Preparing for full-stack when de time right but mi nah rush it.*  
-*Step by step…*
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Learning Roadmap</title>
+<style>
+    body {
+        font-family: 'Brush Script MT', cursive;
+        line-height: 1.6;
+        font-size: 1.3em;
+        margin: 40px;
+        color: #222;
+    }
+    .section {
+        margin-bottom: 25px;
+    }
+    .section-title {
+        font-weight: bold;
+        font-size: 1.5em;
+        margin-bottom: 10px;
+    }
+    .list-item {
+        margin-left: 20px;
+        margin-bottom: 5px;
+    }
+</style>
+</head>
+<body>
 
-*Right now mi dealing with*  
-*• Pure JavaScript business*  
-*• Building likkle projects fi keep di brain sharp*  
-*• Solving problems without stress*  
-*• Preparing fi di bigger tings later (Node.js, TypeScript,Next.js,Express.js,Koa.js, React… one step at a time)*  
+<div class="section">
+    <div class="section-title">Current focus</div>
+    <div class="list-item">JavaScript fundamentals (ES6+)</div>
+    <div class="list-item">Writing clear, predictable logic</div>
+    <div class="list-item">Building small, purpose-driven projects</div>
+</div>
 
-*Mi stay humble, mi stay growing.*  
-*Who fi see di work, will see it, Period.*  
+<div class="section">
+    <div class="section-title">In progress / strengthening</div>
+    <div class="list-item">Problem-solving patterns</div>
+    <div class="list-item">Code readability and structure</div>
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<div class="section">
+    <div class="section-title">Planned progression</div>
+    <div class="list-item">Node.js & server-side development</div>
+    <div class="list-item">Express / Koa (server frameworks)</div>
+    <div class="list-item">TypeScript (type safety)</div>
+    <div class="list-item">React / Next.js (frontend architecture)</div>
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dengkuat&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-  
+</body>
+</html>
