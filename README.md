@@ -12,4 +12,6 @@
 - Express / Koa (server frameworks)  
 - TypeScript (type safety)  
 - React / Next.js (frontend architecture)  
-</p>
+</p>  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dengkuat&langs_count=1&layout=compact&hide_border=false&theme=auto)
