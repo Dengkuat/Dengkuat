@@ -1,17 +1,50 @@
-**Current focus**  
-- JavaScript fundamentals (ES6+)  
-- Writing clear, predictable logic  
-- Building small, purpose-driven projects  
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/0b145f98-88b2-4987-94e9-e3ec09545bc1"
+    alt="Banner"
+    width="100%"
+    style="max-height: 300px; object-fit: cover;"
+  />
+</div>
 
-**In progress / strengthening**  
-- Problem-solving patterns  
-- Code readability and structure  
+<div align="center">
 
-**Planned progression**  
-- Node.js & server-side development  
-- Express / Koa (server frameworks)  
-- TypeScript (type safety)  
-- React / Next.js (frontend architecture)  
-</p>  
+<h1>Deng</h1>
+<h3>JavaScript-focused Developer | Building Strong Foundations</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dengkuat&langs_count=1&layout=compact&hide_border=false&theme=auto)
+</div>
+
+
+<div align="center">
+
+<h2>Current Focus</h2>
+
+<p>
+JavaScript fundamentals & problem-solving<br/>
+Clean, readable, predictable code<br/>
+Small project practice<br/>
+Preparing for Node.js & TypeScript
+</p>
+
+</div>
+<div align="center">
+
+<h2> Languages & Tools I Use</h2>
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nodejs,git,github,vscode,figma" />
+
+</div>
+
+
+<div align="center">
+
+<h2> Planned Progression</h2>
+
+<p>
+Node.js & backend fundamentals<br/>
+Express / Koa<br/>
+TypeScript (type safety)<br/>
+React & Next.js
+</p>
+
+</div>
