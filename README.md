@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>JavaScript-focused Developer | Building Strong Foundations</h3>
+<h3>JavaScript Builder</h3>
 
 </div>
 
@@ -10,10 +10,8 @@
 <h2>Current Focus</h2>
 
 <p>
-JavaScript fundamentals & problem-solving<br/>
-Clean, readable, predictable code<br/>
-Small project practice<br/>
-Preparing for Node.js & TypeScript
+React fundamentals & project-based development     
+Building confidence through real React projects   
 </p>
 
 </div>
@@ -31,10 +29,10 @@ Preparing for Node.js & TypeScript
 <h2> Planned Progression</h2>
 
 <p>
-Node.js & backend fundamentals<br/>
-Express / Koa<br/>
-TypeScript (type safety)<br/>
-React & Next.js
+Node.js & backend fundamentals     
+Express.js (REST APIs)     
+Databases (MongoDB / SQL basics)     
+Full-stack JavaScript applications     
 </p>
 
 </div>
