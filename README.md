@@ -1,38 +1,13 @@
-<div align="center">
+<div>
+  <h1>Web/Dev</h1>
 
-<h3>JavaScript Builder</h3>
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,tailwind,git,figma,nodejs" />
 
-</div>
+  <h3>Present</h3>
+  <p>Building React X TypeScript skills through hands-on projects</p>
 
-
-<div align="center">
-
-<h2>Current Focus</h2>
-
-<p>
-React fundamentals & project-based development     
-Building confidence through real React projects   
-</p>
-
-</div>
-<div align="center">
-
-<h2> Languages & Tools I Use</h2>
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nodejs,git,github,vscode,figma" />
-
-</div>
-
-
-<div align="center">
-
-<h2> Planned Progression</h2>
-
-<p>
-Node.js & backend fundamentals     
-Express.js (REST APIs)     
-Databases (MongoDB / SQL basics)     
-Full-stack JavaScript applications     
-</p>
+  <h3>UpComing</h3>
+  <p>Expanse into 'Node.js, Express, Next.js, & databases.' for full-stack</p>
 
 </div>
